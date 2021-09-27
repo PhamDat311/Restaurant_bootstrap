@@ -67,8 +67,8 @@
         <tbody>
           <tr>
             <th scope="row">1</th>
-            <td>jacob</td>
-            <td>ewiiew</td>
+            <td>lumlua</td>
+            <td>lum</td>
             <td>
               <button class="btn btn-primary"> Change Password </button>
               <button class="btn btn-success"> Update Admin </button>
@@ -77,8 +77,8 @@
           </tr>
           <tr>
             <th scope="row">2</th>
-            <td>frank</td>
-            <td>ewokewke</td>
+            <td>Phamthanhdat</td>
+            <td>dat</td>
             <td>
               <button class="btn btn-primary"> Change Password </button>
               <button class="btn btn-success"> Update Admin </button>
@@ -87,8 +87,8 @@
           </tr>
           <tr>
             <th scope="row">3</th>
-            <td>Dawnwin</td>
-            <td>eqweqwe</td>
+            <td>Adimstrator</td>
+            <td>Admin</td>
             <td>
               <button class="btn btn-primary"> Change Password </button>
               <button class="btn btn-success"> Update Admin </button>

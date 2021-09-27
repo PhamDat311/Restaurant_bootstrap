@@ -90,8 +90,7 @@
             <td>phamdat31101@gmail.com</td>
             <td>Hai phong</td>
             <td>
-              <button class="btn btn-success"> Update </button>
-              <button class="btn btn-danger"> Order </button>
+              <button class="btn btn-success"> Update Order</button>
             </td>
           </tr>
 
@@ -112,8 +111,7 @@
             <td>phamdat31101@gmail.com</td>
             <td>Hai duong</td>
             <td>
-              <button class="btn btn-success"> Update </button>
-              <button class="btn btn-danger"> Order </button>
+              <button class="btn btn-success"> Update Order </button>
             </td>
           </tr>
           <tr>
@@ -133,8 +131,7 @@
             <td>phamdat31101@gmail.com</td>
             <td>Ha noi</td>
             <td>
-              <button class="btn btn-success"> Update </button>
-              <button class="btn btn-danger"> Order </button>
+              <button class="btn btn-success"> Update Order </button>
             </td>
           </tr>
         </tbody>

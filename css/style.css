@@ -156,11 +156,3 @@
     width: 60%;
     margin: auto;   
 }
-.nav .nav-item .nav-link {
-    color: #ff6b81;
-    font-weight: bold;
-    font-size: 1rem ;
-}
-a:hover{
-    color: black !important;
-}

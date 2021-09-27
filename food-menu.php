@@ -24,7 +24,8 @@
         </li>
         <li class="nav-item">
           <a class="menu-edit nav-link" href="#">Foods</a>
-        </li>
+        </li >
+        <li class="nav-item">
         <a class="menu-edit nav-link" href="#">Contact</a>
         </li>
         </li>
@@ -50,7 +51,7 @@
       <div class="row">
         <div class="box-box col-6 col-sm-6">
           <div class="box-image">
-            <img src="./images/menu-pizza.jpg" alt="" class="box-photo box-vien">
+            <img src="images/menu-pizza.jpg" alt="" class="box-photo box-vien">
 
           </div>
           <div class="box-title">
@@ -62,7 +63,7 @@
         </div>
         <div class="box-box col-6 col-sm-6">
           <div class="box-image">
-            <img src="./images/menu-pizza.jpg" alt="" class="box-photo box-vien">
+            <img src="images/menu-pizza.jpg" alt="" class="box-photo box-vien">
 
           </div>
           <div class="box-title">
@@ -77,7 +78,7 @@
 
         <div class="box-box col-6 col-sm-6">
           <div class="box-image">
-            <img src="./images/menu-pizza.jpg" alt="" class="box-photo box-vien">
+            <img src="images/menu-pizza.jpg" alt="" class="box-photo box-vien">
 
           </div>
           <div class="box-title">
@@ -89,7 +90,7 @@
         </div>
         <div class="box-box col-6 col-sm-6">
           <div class="box-image">
-            <img src="./images/menu-pizza.jpg" alt="" class="box-photo box-vien">
+            <img src="images/menu-pizza.jpg" alt="" class="box-photo box-vien">
 
           </div>
           <div class="box-title">

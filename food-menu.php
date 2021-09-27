@@ -11,8 +11,9 @@
 </head>
 
 <body>
+  <!-- Navbar Section Starts Here -->
   <div class="heading">
-    <img src="./images/logo.png" alt="">
+    <img src="images/logo.png" alt="">
     <div class="logoo">
       <ul class="nav justify-content-end">
         <li class=" nav-item">
@@ -30,6 +31,8 @@
       </ul>
     </div>
   </div>
+  <!-- Navbar Section Ends Here -->
+
   <nav class="navbar submitsearch navbar-light bg-light">
     <div class="subsearch container-fluid ">
       <form class="d-flex ">
@@ -98,9 +101,6 @@
         </div>
       </div>
     </div>
-    <div class="more">
-      <h6><a href="#">See all foods</a></h6>
-    </div>
   </div>
   <div class="social">
     <div class="container">
@@ -116,9 +116,7 @@
         </div>
       </div>
     </div>
-    <div class="bg-danger">
-      <p class="text-center py-3 text-light">2020 All right reserved , Food House . Developed By <a href="#">PHAM THANH DAT</a></p>
-    </div>
+      <p class="text-center">2020 All right reserved, Developed By <a href="#">PHAM THANH DAT</a></p>
   </div>
   <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.0.2/dist/js/bootstrap.bundle.min.js" integrity="sha384-MrcW6ZMFYlzcLA8Nl+NtUVF0sA7MsXsP1UyJoMp4YLEuNSfAP+JcXn/tWtIaxVXM" crossorigin="anonymous"></script>
 </body>

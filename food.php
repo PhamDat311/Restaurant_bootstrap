@@ -67,13 +67,35 @@
                 <tbody>
                     <tr>
                         <th>
+                            <p>3</p>
+                        </th>
+                        <td>
+                            <p>Burger</p>
+                        </td>
+                        <td> 5.00$</td>
+                        <td><img src="images/burger.jpg" width="100" height="150" /></td>
+                        <td>
+                            <p>Yes</p>
+                        </td>
+                        <td>
+                            <p>Yes</p>
+                        </td>
+                        <td>
+                            <div>
+                                <button class="btn btn-success"> Update Food </button>
+                                <button class="btn btn-danger"> Delete Food </button>
+                            </div>
+                        </td>
+                    </tr>
+                    <tr>
+                        <th>
                             <p>1</p>
                         </th>
                         <td>
                             <p>Pizza</p>
                         </td>
-                        <td> 5$</td>
-                        <td><img src="../images/pizza.jpg" width="100" height="150" /></td>
+                        <td> 5.00$</td>
+                        <td><img src="images/pizza.jpg" width="100" height="150" /></td>
                         <td>
                             <p>Yes</p>
                         </td>
@@ -94,8 +116,8 @@
                         <td>
                             <p>Momo</p>
                         </td>
-                        <td> 5$</td>
-                        <td><img src="../images/momo.jpg" width="100" height="150" /></td>
+                        <td> 5.00$</td>
+                        <td><img src="images/momo.jpg" width="100" height="150" /></td>
                         <td>
                             <p>Yes</p>
                         </td>
@@ -109,28 +131,7 @@
                             </div>
                         </td>
                     </tr>
-                    <tr>
-                        <th>
-                            <p>3</p>
-                        </th>
-                        <td>
-                            <p>Burger</p>
-                        </td>
-                        <td> 5$</td>
-                        <td><img src="../images/burger.jpg" width="100" height="150" /></td>
-                        <td>
-                            <p>Yes</p>
-                        </td>
-                        <td>
-                            <p>Yes</p>
-                        </td>
-                        <td>
-                            <div>
-                                <button class="btn btn-success"> Update Food </button>
-                                <button class="btn btn-danger"> Delete Food </button>
-                            </div>
-                        </td>
-                    </tr>
+
                     <tr>
                         <th>
                             <p>4</p>
@@ -138,7 +139,7 @@
                         <td>
                             <p>Square Pizza</p>
                         </td>
-                        <td> 5$</td>
+                        <td> 5.00$</td>
                         <td><img src="https://raw.githubusercontent.com/ManhPhamGitHub/restaurant-bootstrap/main/img/7.jpg" width="100" height="150" /></td>
                         <td>
                             <p>Yes</p>

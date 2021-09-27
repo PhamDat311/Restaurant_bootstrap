@@ -71,7 +71,7 @@
                         <td>
                             <p>Pizza</p>
                         </td>
-                        <td><img src="../images/pizza.jpg" width="100" height="150" /></td>
+                        <td><img src="images/pizza.jpg" width="100" height="150" /></td>
                         <td>
                             <p>Yes</p>
                         </td>
@@ -92,7 +92,7 @@
                         <td>
                             <p>Burger</p>
                         </td>
-                        <td><img src="../images/burger.jpg" width="100" height="150" /></td>
+                        <td><img src="images/burger.jpg" width="100" height="150" /></td>
                         <td>
                             <p>Yes</p>
                         </td>
@@ -113,9 +113,9 @@
                         <td>
                             <p>Momo</p>
                         </td>
-                        <td><img src="../images/momo.jpg" width="100" height="150" /></td>
+                        <td><img src="images/momo.jpg" width="100" height="150" /></td>
                         <td>
-                            <p>Yes</p>
+                            <p>No</p>
                         </td>
                         <td>
                             <p>Yes</p>
